@@ -3,3 +3,5 @@
 /consts/*
 /weather_app/weather_app/settings.py
 /utils/url.py
+.idea
+/idea/*

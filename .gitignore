@@ -1,0 +1,5 @@
+.venv
+/.venv/*
+/consts/*
+/weather_app/weather_app/settings.py
+/utils/url.py
